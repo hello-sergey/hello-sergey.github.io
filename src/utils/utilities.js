@@ -1,6 +1,5 @@
-export function scrollTop() {
-    window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-    });
-}
+import {animateScroll} from "react-scroll";
+
+export const scrollToTop = () => {
+    animateScroll.scrollToTop();
+};

@@ -1,5 +1,5 @@
 import "./Footer.css"
-import {scrollTop} from "../utils/utilities";
+import {scrollToTop} from "../utils/utilities";
 
 export function Footer() {
 
@@ -8,7 +8,7 @@ export function Footer() {
             <div className="container">
                 <div className="footer-content">
                     <p className="footer-item footer-copyright">Copyright © 2023 <br/>Sergey Batechko</p>
-                    <div onClick={scrollTop} className="footer-item scroll-top">
+                    <div onClick={scrollToTop} className="footer-item scroll-top">
                         <i className="fa-solid fa-chevron-up"></i>
                     </div>
                     <ul className="footer-item socials-list">
