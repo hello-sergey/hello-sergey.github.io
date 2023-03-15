@@ -18,7 +18,7 @@ export function Footer() {
                             </a>
                         </li>
                         <li className="socials-list-item">
-                            <a href="https://www.linkedin.com/in/sergey-batechko-56b73a267/" target="_blank"
+                            <a href="https://www.linkedin.com/in/sergey-batechko/" target="_blank"
                                className="socials-list-item-link">
                                 <i className="fa-brands fa-linkedin-in"></i>
                             </a>
