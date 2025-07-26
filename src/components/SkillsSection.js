@@ -16,7 +16,7 @@ const SkillsSection = forwardRef((props, ref) => {
                         <li className="skills-list-item">Selenium</li>
                         <li className="skills-list-item">Selenide</li>
                         <li className="skills-list-item">Serenity</li>
-                        <li className="skills-list-item">Cypress.io</li>
+                        <li className="skills-list-item">Playwright</li>
                         <li className="skills-list-item">RestAssured</li>
                         <li className="skills-list-item">Jenkins</li>
                         <li className="skills-list-item">HTML</li>
