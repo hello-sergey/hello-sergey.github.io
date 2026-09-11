@@ -23,12 +23,12 @@ export function Footer() {
                                 <i className="fa-brands fa-linkedin-in"></i>
                             </a>
                         </li>
-                        <li className="socials-list-item">
-                            <a href="https://www.instagram.com/sereja_interesniy/" target="_blank"
-                               className="socials-list-item-link">
-                                <i className="fa-brands fa-instagram"></i>
-                            </a>
-                        </li>
+                        // <li className="socials-list-item">
+                        //     <a href="https://www.instagram.com/sereja_interesniy/" target="_blank"
+                        //        className="socials-list-item-link">
+                        //         <i className="fa-brands fa-instagram"></i>
+                        //     </a>
+                        // </li>
                     </ul>
                 </div>
             </div>
