@@ -13,19 +13,19 @@ export function Footer() {
                     </div>
                     <ul className="footer-item socials-list">
                         <li className="socials-list-item">
-                            <a href="https://t.me/nickslice" target="_blank" className="socials-list-item-link">
+                            <a href="https://t.me/nickslice" target="_blank" className="socials-list-item-link" rel="noreferrer">
                                 <i className="fa-brands fa-telegram"></i>
                             </a>
                         </li>
                         <li className="socials-list-item">
                             <a href="https://www.linkedin.com/in/sergey-batechko/" target="_blank"
-                               className="socials-list-item-link">
+                               className="socials-list-item-link" rel="noreferrer">
                                 <i className="fa-brands fa-linkedin-in"></i>
                             </a>
                         </li>
                         {/*<li className="socials-list-item">
                             <a href="https://www.instagram.com/sereja_interesniy/" target="_blank"
-                               className="socials-list-item-link">
+                               className="socials-list-item-link" rel="noreferrer">
                                 <i className="fa-brands fa-instagram"></i>
                             </a>
                         </li>*/}
