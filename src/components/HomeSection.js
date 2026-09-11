@@ -14,7 +14,7 @@ export function HomeSection() {
                     </div>
                     <h1 className="home-item name">Sergey Batechko</h1>
                     <h2 className="home-item qualification">QAA Engineer</h2>
-                    <a href={CVdoc} target="_blank" className="home-item download-resume-button">Download CV</a>
+                    <a href={CVdoc} target="_blank" className="home-item download-resume-button" rel="noreferrer">Download CV</a>
                     <Link to="about" spy={true} smooth={true} offset={-80} duration={500}
                           className="home-item scroll-down">
                         <i className="fa-solid fa-chevron-down"></i>
